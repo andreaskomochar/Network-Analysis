@@ -1,0 +1,17 @@
+Mercutio.Paris.{}
+Mercutio.Escalus.{}
+Mercutio.Romeo.{}
+Friar Laurence.Romeo.{}
+Friar Laurence.Juliet.{}
+Paris.Escalus.{}
+Paris.Capulet.{}
+Escalus.Montague.{}
+Escalus.Capulet.{}
+Romeo.Montague.{}
+Romeo.Benvolio.{}
+Romeo.Juliet.{}
+Montague.Benvolio.{}
+Tybalt.Capulet.{}
+Tybalt.Juliet.{}
+Nurse.Juliet.{}
+Capulet.Juliet.{}
